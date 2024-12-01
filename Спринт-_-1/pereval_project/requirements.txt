@@ -1,0 +1,7 @@
+fastapi  
+uvicorn  
+asyncpg                   # Используем для асинхронного взаимодействия с PostgreSQL  
+pydantic  
+python-dotenv  
+pytest                   # Для трейтинга  
+httpx                    # Для тестирования HTTP-запросов
